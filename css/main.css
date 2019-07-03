@@ -71,7 +71,7 @@ a {
 }
 
 a:hover {
-  color: #9575F6 !important;
+  color: #193F71 !important;
 }
 
 iframe {
@@ -908,25 +908,25 @@ h1, h2, h3, h4, h5, h6 {
 
 .genric-btn.primary {
   color: #fff;
-  background: #9575F6;
+  background: #193F71;
   border: 1px solid transparent;
 }
 
 .genric-btn.primary:hover {
-  color: #9575F6;
-  border: 1px solid #9575F6;
+  color: #193F71;
+  border: 1px solid #193F71;
   background: #fff;
 }
 
 .genric-btn.primary-border {
-  color: #9575F6;
-  border: 1px solid #9575F6;
+  color: #193F71;
+  border: 1px solid #193F71;
   background: #fff;
 }
 
 .genric-btn.primary-border:hover {
   color: #fff !important;
-  background: #9575F6;
+  background: #193F71;
   border: 1px solid transparent;
 }
 
@@ -1062,7 +1062,7 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #9575F6;
+  border-left: 2px solid #193F71;
 }
 
 .progress-table-wrap {
@@ -1186,7 +1186,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #9575F6;
+  border: 3px solid #193F71;
   background: #fff;
   top: 4px;
   left: 0;
@@ -1199,7 +1199,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #9575F6;
+  color: #193F71;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1212,7 +1212,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #9575F6;
+  color: #193F71;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1225,7 +1225,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #9575F6;
+  color: #193F71;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1297,7 +1297,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #9575F6;
+  border: 1px solid #193F71;
 }
 
 .single-input-accent {
@@ -1358,7 +1358,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #9575F6;
+  background: #193F71;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -1441,7 +1441,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .primary-switch input:checked + label:before {
-  background: #9575F6;
+  background: #193F71;
 }
 
 .confirm-switch {
@@ -1790,12 +1790,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .default-select .nice-select .list .option.selected {
-  color: #9575F6;
+  color: #193F71;
   background: transparent;
 }
 
 .default-select .nice-select .list .option:hover {
-  color: #9575F6;
+  color: #193F71;
   background: transparent;
 }
 
@@ -1845,12 +1845,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .form-select .nice-select .list .option.selected {
-  color: #9575F6;
+  color: #193F71;
   background: transparent;
 }
 
 .form-select .nice-select .list .option:hover {
-  color: #9575F6;
+  color: #193F71;
   background: transparent;
 }
 
@@ -1937,15 +1937,15 @@ nav a:hover {
 
 @media (max-width: 767px) {
   nav a {
-    color: #9575F6;
+    color: #193F71;
   }
   nav a:hover {
-    color: #9575F6 !important;
+    color: #193F71 !important;
   }
 }
 
 body {
-  background: #9575F6;
+  background: #193F71;
 }
 
 .main-wrapper-first {
@@ -2051,7 +2051,7 @@ body {
 }
 
 .primary-btn:hover {
-  background: #9575F6;
+  background: #193F71;
   border: 1px solid #fff;
   color: #fff;
 }
@@ -2060,10 +2060,10 @@ body {
   color: #222222;
 }
 
-/* COMMENT */
+/* COMMENT COLOR */
 
 .main-wrapper-first {
-  background: #8864F6;
+  background: #0F2644;
 }
 
 .banner-content {
@@ -2091,7 +2091,7 @@ body {
 /* COMMENT */
 
 .banner-area {
-  background: #8864F6;
+  background: #0F2644;
 }
 
 .featured-area {
@@ -2284,7 +2284,7 @@ body {
 /* OUTSIDE COMMENT COLOR*/
 
 .newsletter-area {
-  background-color: #9575F6;
+  background-color: #193F71;
   color: #fff;
 }
 
@@ -2325,7 +2325,7 @@ body {
 }
 
 .subscription .primary-btn {
-  background: #9575F6;
+  background: #193F71;
   color: #fff;
   position: absolute;
   top: 50%;
