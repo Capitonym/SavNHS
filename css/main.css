@@ -2151,13 +2151,13 @@ body {
   }
 }
 
-.offer-left, .offer-right {
+.offer-left, .offer-right, .offer-left-bottom, .offer-right-bottom {
   min-height: 495px;
   display: flex;
   color: #fff;
 }
 
-.offer-left h2, .offer-right h2 {
+.offer-left h2, .offer-right h2, .offer-left-bottom h2, .offer-right-bottom h2 {
   color: #fff;
 }
 
@@ -2181,6 +2181,22 @@ body {
 
 .offer-left {
   background: url(../img/oa1.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.offer-left-bottom {
+  background: url(../img/oa1.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.offer-right-bottom {
+  background: url(../img/oa2.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
