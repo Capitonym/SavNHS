@@ -2185,7 +2185,7 @@ SCHHOLARSHIP TOP RIGHT
 BOTTOM LEFT LEADERSHIP
 SERVICE BOTTOM RIGHT*/
 .offer-left {
-  background: url(../img/uploads/character.JPG) no-repeat center center;
+  background: url(../img/uploads/character.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2193,7 +2193,7 @@ SERVICE BOTTOM RIGHT*/
 }
 
 .offer-left-bottom {
-  background: url(../img/uploads/leadership.JPG) no-repeat center center;
+  background: url(../img/uploads/leadership.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
