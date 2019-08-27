@@ -2179,9 +2179,13 @@ body {
 .special-offer-area p {
   margin-top: 1rem;
 }
-/* FOR CHARACTER STUFF ON FIRST PAGE */
+/* FOR CHARACTER STUFF ON FIRST PAGE 
+IT GOES CHAR LEFT
+SCHHOLARSHIP TOP RIGHT
+BOTTOM LEFT LEADERSHIP
+SERVICE BOTTOM RIGHT*/
 .offer-left {
-  background: url(../img/oa1.jpg) no-repeat center center;
+  background: url(../img/uploads/character.JPG) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2189,7 +2193,7 @@ body {
 }
 
 .offer-left-bottom {
-  background: url(../img/oa1.jpg) no-repeat center center;
+  background: url(../img/uploads/leadership.JPG) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2197,7 +2201,7 @@ body {
 }
 
 .offer-right-bottom {
-  background: url(../img/oa2.jpg) no-repeat center center;
+  background: url(../img/uploads/service.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2205,7 +2209,7 @@ body {
 }
 
 .offer-right {
-  background: url(../img/oa2.jpg) no-repeat center center;
+  background: url(../img/uploads/scholarship.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
