@@ -2151,14 +2151,14 @@ body {
     padding-bottom: 30px;
   }
 }
-
-.offer-left, .offer-right, .offer-left-bottom, .offer-right-bottom {
+/* note for me dummy */
+.offer-left, .offer-right, .offer-left-bottom, .offer-right-bottom, .offer-president, .offer-vice-president, .offer-recording-sec, .offer-reporting-sec, .offer-lead-treas, .offer-junior-treas, .offer-tech, .offer-historian {
   min-height: 495px;
   display: flex;
   color: #fff;
 }
 
-.offer-left h2, .offer-right h2, .offer-left-bottom h2, .offer-right-bottom h2 {
+.offer-left h2, .offer-right h2, .offer-left-bottom h2, .offer-right-bottom h2 , .offer-president h2, .offer-vice-president h2, .offer-recording-sec h2, .offer-reporting-sec h2, .offer-lead-treas h2, .offer-junior-treas h2, .offer-tech h2, .offer-historian h2 {
   color: #fff;
 }
 
@@ -2179,7 +2179,7 @@ body {
 .special-offer-area p {
   margin-top: 1rem;
 }
-
+/* FOR CHARACTER STUFF ON FIRST PAGE */
 .offer-left {
   background: url(../img/oa1.jpg) no-repeat center center;
   -webkit-background-size: cover;
@@ -2211,7 +2211,76 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+/* FOR THE BOARD PAGE
+GOES
+PRESIDENT (president)
+VICE PRESIDENT (vice-president)
+RECORDING SECRETARY (recording-sec)
+REPORTING SECRETARY (reporting-sec)
+LEAD TREASURER (lead-treas)
+JUNIOR TREASURER (junior-treas)
+TECH LIAISON (tech)
+HISTORIAN (historian)
 
+*/
+.offer-president {
+  background: url(../img/uploads/constr.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.offer-vice-president {
+  background: url(../img/uploads/constr.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.offer-recording-sec {
+  background: url(../img/uploads/constr.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.offer-reporting-sec {
+  background: url(../img/uploads/constr.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.offer-lead-treas {
+  background: url(../img/uploads/constr.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.offer-junior-treas {
+  background: url(../img/uploads/constr.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.offer-tech {
+  background: url(../img/uploads/constr.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.offer-historian {
+  background: url(../img/uploads/constr.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* END FOR THE BOARD */
 .image-gallery-area {
   background: #fff;
 }
